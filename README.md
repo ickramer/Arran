@@ -7,10 +7,11 @@ In this drive 6 folders containing datasets for the original DTM and 5 different
 
 The original LiDAR data can be downloaded through https://remotesensingdata.gov.scot/.
 
-Our results using the Fizyr implementation of RetinaNet in Keras (Gaiser, 2019). 
+![fig-ch4-15_v1](https://user-images.githubusercontent.com/16646078/122689447-72af3600-d21a-11eb-81d5-b2e405865f43.png)
+*These images show the image pre-processing step from the Fizyr implementation of RetinaNet: debugging object detection input images (Gaiser, 2019).*
 
-
-| Round House | Small Cairn | Shieling | MaP |
+# Results
+| | Round House | Small Cairn | Shieling | MaP |
 | --- | --- | --- |  --- | --- |
 | Slope | **83%** | 23% | 51% | 50% |
 | SVF | 79% | 18% | 36% | 44%|
@@ -18,6 +19,4 @@ Our results using the Fizyr implementation of RetinaNet in Keras (Gaiser, 2019).
 | Open-positive |78% | 22% | **53%** | **51%** |
 | Local dominance |78% | **31%** | 15% | 41% |
 
-
-![fig-ch4-15_v1](https://user-images.githubusercontent.com/16646078/122689447-72af3600-d21a-11eb-81d5-b2e405865f43.png)
-These images show the image pre-processing step from the Fizyr implementation of RetinaNet: debugging object detection input images (Gaiser, 2019).
+*Our results using the Fizyr implementation of RetinaNet in Keras (Gaiser, 2019).* 

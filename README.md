@@ -1,7 +1,7 @@
 # Arran
 *Arran: a benchmark dataset for automated object detection of archaeological sites on LiDAR data*
 
-This dataset was created during the PhD of Dr. Iris Kramer. The original data was provided by Historic Environment Scotland (HES) who researched the Isle of Arran in Scotland for their Rapid Archaeology Mapping Programme (RAMP) (Banaszek et al., 2018). The benchmark dataset includes 3 different archaeological site classes: round houses (121), shieling huts (267) and small cairns (384). These were chosen because they occur in large numbers on the island. The LiDAR data and visualisations were also provided by HES and processed by Žiga Kokalj (using the Relief Visualization Toolbox (RVT) available through https://iaps.zrc-sazu.si/en/rvt). The original LiDAR data can be downloaded through https://remotesensingdata.gov.scot/.
+This dataset was created during the PhD of Dr. Iris Kramer at the University of Southampton. The original data was provided by Historic Environment Scotland (HES) who researched the Isle of Arran in Scotland for their Rapid Archaeology Mapping Programme (RAMP) (Banaszek et al., 2018). The benchmark dataset includes 3 different archaeological site classes: round houses (121), shieling huts (267) and small cairns (384). These were chosen because they occur in large numbers on the island. The LiDAR data and visualisations were also provided by HES and processed by Žiga Kokalj (using the Relief Visualization Toolbox (RVT) available through https://iaps.zrc-sazu.si/en/rvt). The original LiDAR data can be downloaded through https://remotesensingdata.gov.scot/.
 
 The benchmark dataset can be accessed through https://drive.google.com/drive/folders/1BMdKLO2vDC70PVjyR07x9esDFvESUB5Y?usp=sharing.
 

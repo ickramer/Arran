@@ -19,4 +19,4 @@ This drive contains 6 folders for the original DTM and 5 different visualisation
 | Open-positive |78% | 22% | **53%** | **51%** |
 | Local dominance |78% | **31%** | 15% | 41% |
 
-*Our results using the Fizyr implementation of RetinaNet in Keras (Gaiser, 2019).* 
+*Our results using the [Fizyr](https://github.com/fizyr/keras-retinanet "Fizyr RetinaNet implementation") implementation of RetinaNet in Keras (Gaiser, 2019).* 
